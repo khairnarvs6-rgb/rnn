@@ -39,20 +39,4 @@ Senior Artificial Intelligence Engineer & Inventor
      src="https://raw.githubusercontent.com/emirhanai/Cryptocurrency-ETH-USDT-prediction-with-RNN-Neural-Network-Artificial-Intelligence/main/ETH-USDT%20with%20RNN%20Neural%20Network%20Artificial%20Intelligence.png"
      alt="Cryptocurrency [ETH/USDT] prediction with RNN Neural Network Artificial Intelligence- Emirhan BULUT">
      
-### **Developer Information:**
 
-Name-Surname: **Emirhan BULUT**
-
-Contact (Email) : **emirhan@isap.solutions**
-
-LinkedIn : **[https://www.linkedin.com/in/artificialintelligencebulut/][LinkedinAccount]**
-
-[LinkedinAccount]: https://www.linkedin.com/in/artificialintelligencebulut/
-
-Kaggle: **[https://www.kaggle.com/emirhanai][Kaggle]**
-
-Official Website: **[https://www.emirhanbulut.com.tr][OfficialWebSite]**
-
-[Kaggle]: https://www.kaggle.com/emirhanai
-
-[OfficialWebSite]: https://www.emirhanbulut.com.tr
